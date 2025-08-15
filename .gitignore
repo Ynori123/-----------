@@ -1,0 +1,2 @@
+﻿# 排除python
+./_pycache_*
